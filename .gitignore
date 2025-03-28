@@ -1,0 +1,23 @@
+ 
+# Windowsのシステムファイル
+Thumbs.db
+Desktop.ini
+
+# ログファイル
+*.log
+
+# 一時ファイル
+*.tmp
+*.bak
+
+# エディタ設定ファイル
+.idea/
+.vscode/
+
+# アプリケーションデータ
+AppData/
+
+# ビルド生成物
+node_modules/
+target/
+dist/
