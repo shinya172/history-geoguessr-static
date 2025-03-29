@@ -1,7 +1,7 @@
 /* 全体のフォントと背景色 */
 body {
     font-family: Arial, sans-serif; /* フォントの設定 */
-    background-color: #1227e4; /* 背景色 */
+    background-color: #1227e4; /* 背景色を青に */
     text-align: center; /* 中央揃え */
     margin: 0; /* 外側の余白をゼロに */
     padding: 0; /* 内側の余白をゼロに */
