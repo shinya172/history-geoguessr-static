@@ -1,7 +1,7 @@
 /* 全体のフォントと背景色 */
 body {
     font-family: Arial, sans-serif; /* フォントの設定 */
-    background-color: #f0f0f0; /* 背景色 */
+    background-color: #1227e4; /* 背景色 */
     text-align: center; /* 中央揃え */
     margin: 0; /* 外側の余白をゼロに */
     padding: 0; /* 内側の余白をゼロに */
@@ -9,5 +9,5 @@ body {
 
 /* 見出しの色 */
 h1 {
-    color: #333; /* 見出し文字の色 */
+    color: white; /* 見出し文字の色 */
 }
